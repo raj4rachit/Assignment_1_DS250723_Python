@@ -1,6 +1,6 @@
 limit = int(input("Enter the Number for generating Fibonacci series: "))
 fib_series = [0, 1]
-series = ''
+
 while fib_series[-1] + fib_series[-2] <= limit:
     fib_series.append(fib_series[-1] + fib_series[-2])
 
