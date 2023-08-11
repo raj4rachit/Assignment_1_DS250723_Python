@@ -1,9 +1,9 @@
 while True:
     limit = input("Enter the Number for generating Fibonacci series: ")
-    if limit.strip():  # Check if the input is not empty after stripping whitespace
+    if limit.strip():
         try:
             limit = int(limit)
-            break  # Break the loop if a valid integer is provided
+            break
         except ValueError:
             print("Please enter a valid integer.")
     else:
