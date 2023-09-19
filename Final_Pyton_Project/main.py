@@ -1,5 +1,5 @@
-from project import Application
+from app import FoodOrderingApp
 
 if __name__ == "__main__":
-    app = Application()
-    app.run()
+    app = FoodOrderingApp()
+    app.start()

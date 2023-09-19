@@ -1,1 +1,1 @@
-{"users": [{"full_name": "Raj Patel", "phone_number": "1231231231", "email": "raj@gmail.com", "address": "test", "password": "test"}]}
+{"users": [{"full_name": "Rachit Patel", "phone_number": "1231231231", "email": "admin@gmail.com", "address": "Bopal Ahmedabad", "password": "123", "Role": "admin"}, {"full_name": "User1", "phone_number": "2312", "email": "user1@gmail.com", "address": "user one", "password": "123", "Role": "user"}, {"full_name": "User Teset", "phone_number": "1231231231", "email": "user2@gmail.com", "address": "Ahmedabae", "password": "123", "Role": "user"}]}
